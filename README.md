@@ -16,4 +16,8 @@ Wat is de link met 'Reflection'?
 Pas Unit Testing toe op SupportCenter. Werk testen uit voor klassen in verschillende lagen (n-tier) van de applicatie.
 Pas ook prkatisch Dependency Injection en Reflection toe en toon hoe deze technologiën met mekaar gelinkt zijn.
 
+# Nuttige links
+
+[Unit Testing Tutorial for C# Developers](https://www.youtube.com/watch?v=HYrXogLj7vg)
+
 
